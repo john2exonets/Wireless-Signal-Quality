@@ -1,0 +1,8 @@
+{
+    "mqttBroker": "http://mqtt.my.io",
+    "debug": 10,
+    "period": 120000,
+    "ipaddr": "rtr9.my.io",
+    "username": "admin",
+    "passwd": "password"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "wlQuality",
+  "version": "1.0.0",
+  "description": "Retrieve Wireless Signal Quality from a DD-WRT and Publish to MQTT",
+  "main": "getQuality.js",
+  "scripts": {
+    "test": "echo \"Error: No tests specified.\" && exit 1",
+    "start": "node getQuality.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/john3exonets/Wireless-Signal-Quality.git"
+  },
+  "keywords": [
+    "MQTT",
+    "NodeJS"
+  ],
+  "author": "John D. Allen",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.6"
+  }
+}
